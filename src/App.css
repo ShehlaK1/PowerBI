@@ -1,0 +1,28 @@
+.display-graph {
+  display: flex;
+  /* grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px; */
+  /* grid-template-columns: auto auto; */
+  justify-content: space-around;
+  height: 500px;
+  padding: 1% 4% 2% 0%;
+}
+
+.graph-ind {
+  background-color: lightblue;
+  width: 400px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0% 0% 0% 0%;
+  border: 2px solid white;
+  
+
+}
+
+.row>* {
+  width: 87%;
+  margin-left: 6%;
+  max-width: 100%;
+}

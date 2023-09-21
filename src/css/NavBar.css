@@ -1,0 +1,51 @@
+.navbars {
+    background-color: darkcyan;
+    block-size: 100px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.navbar-comp {
+    margin:0%
+}
+
+.logo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    padding-left :10px;
+}
+
+.grid-size {
+    height: 32px;
+    margin-left: 6px;
+    width: 55px;
+    border-radius: 8px;
+    font-size: 17px;
+}
+
+.a {
+    padding: 0px 15px;
+}
+
+.a2 {
+    float:right;
+    display: flex;
+    font-size: 35px;
+}
+
+.resetBtn {
+    margin-right: 10px;
+    margin-left: 6px;
+    border-radius: 6px;
+    font-size: 15px;
+    border-color: white;
+}
+
+.user-icon {
+    margin-right: 8px;
+    
+}
+
